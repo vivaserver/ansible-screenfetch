@@ -1,0 +1,18 @@
+---
+- name: ensure Git
+  apt: pkg=git
+  sudo: yes
+
+- name: ensure repo.
+  git: repo=https://github.com/KittyKatt/screenFetch.git dest=/tmp/screenfetch
+
+- name: ensure command
+  copy: src=/tmp/screenfetch/screenfetch-dev dest=/usr/local/bin/screenfetch
+  sudo: yes
+
+- name: ensure executable
+  command: /bin/chmod +x /usr/local/bin/screenfetch
+  sudo: yes
+
+- name: remove repo.
+  command: /bin/rm -rf /tmp/screenfetch

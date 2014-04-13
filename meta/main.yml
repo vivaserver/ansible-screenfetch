@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: "Cristian R. Arroyo"
+  description: Installs screenfetch from it's official repository
+  license: MIT
+  min_ansible_version: 1.4
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+  categories:
+    - system
+dependencies: []
