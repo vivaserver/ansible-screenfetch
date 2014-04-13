@@ -2,6 +2,10 @@
 
 ![screenshot](https://raw.github.com/vivaserver/ansible-screenfetch/master/screenfetch-hohoho.png)
 
+![screenshot](https://raw.github.com/vivaserver/ansible-screenfetch/master/screenfetch-slug.png)
+
+![screenshot](https://raw.github.com/vivaserver/ansible-screenfetch/master/screenfetch-slum.png)
+
 ## Requirements
 
 A Debian or Ubuntu-based system.
