@@ -1,4 +1,6 @@
-# Installs screenfetch from it's official repository
+# Installs screenFetch from it's official repository
+
+[screenFetch][scf] is a "Bash Screenshot Information Tool". This handy Bash script can be used to generate one of those nifty terminal theme information + ASCII distribution logos you see in everyone's screenshots nowadays. It will auto-detect your distribution and display an ASCII version of that distribution's logo and some valuable information to the right. 
 
 ![screenshot](https://raw.github.com/vivaserver/ansible-screenfetch/master/screenfetch-hohoho.png)
 
@@ -29,3 +31,5 @@ MIT
 ## Copyright
 
 (c)2014 Cristian R. Arroyo
+
+[scf]: https://github.com/KittyKatt/screenFetch
