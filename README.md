@@ -14,6 +14,8 @@
 
 ![screenshot](https://raw.github.com/vivaserver/ansible-screenfetch/master/screenfetch-slum.png)
 
+![screenshot](https://raw.github.com/vivaserver/ansible-screenfetch/master/screenfetch-pi.png)
+
 ## Requirements
 
 A Debian or Ubuntu-based system.
